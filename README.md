@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-You use this study guide to help review key points of the PreWork lesson.
+You use this study guide to review key points of the PreWork lesson.
 
 
 ## License
